@@ -24,7 +24,7 @@ To stop the database service
 $ brew services stop postgresql 
 ```
 
-### Database setup
+### Database setup (https://www.postgresql.org/docs/13/index.html)
 
 To create the database
 ```
